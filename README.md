@@ -11,12 +11,11 @@ Credit: Josh P. Earl for his mentorship (jpearl01)
 Citation: Coming soon.
 
 Materials and tools: 
-For this project genomes were either downloaded from RefSeq as of October 2021 or sequenced within the Center for Genomic Sciecnes at Drexel University College of Medicine. The newly sequenced spirochetes will be uploaded to NCBI.
+For this project genomes were either downloaded sprichete fasta files from RefSeq as of October 2021 or sequenced within the Center for Genomic Sciecnes at Drexel University College of Medicine. The newly sequenced spirochetes will be uploaded to NCBI.
 
-Afterwards, all analysis is done using RStudio or on the commandline. 
-
-Dependencies: 
+Afterwards, all analysis is done using RStudio (R (tidyr, ggplot, ggtree, heatmap2, EggNOG...)) or on the commandline. 
 
 Data Prerequisites: 
+- decent quality fasta files
 
 Getting Started:
